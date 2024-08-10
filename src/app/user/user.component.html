@@ -1,0 +1,28 @@
+<div class="user-details-table">
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>City</th>
+                <th>Company Name</th>
+                <th>Website</th>
+                <th>Phone Number</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of users">
+                <td>{{ user.id }}</td>
+                <td>{{ user.name }}</td>
+                <td>{{ user.username }}</td>
+                <td>{{ user.email }}</td>
+                <td>{{ user.address.city }}</td>
+                <td>{{ user.company.name }}</td>
+                <td><a [href]="'http://' + user.website" target="_blank">{{ user.website }}</a></td>
+                <td>{{ user.phone }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

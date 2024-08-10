@@ -1,0 +1,26 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.logout-button {
+    background-color: #f00;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.logout-button:hover {
+    background-color: #c00;
+}
